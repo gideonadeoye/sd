@@ -1,0 +1,262 @@
+.section1{
+    padding: 80px 20px;
+    align-items: center;
+    background-color:green;
+    background-size: cover;
+    width: 100%;
+    background-position: center;
+   
+  
+}
+.section1-inner{
+    align-items: center;
+    justify-content: space-around;
+}
+.section1-left{
+    width: 50%;
+    padding: 15px;
+
+}
+.section1-h{
+    color: white;
+    
+    font-size: 70px;
+
+    align-items: start;
+    
+}
+.section1-p{
+    padding: 10px;
+    padding-left: 20px;
+    color: white;
+}
+.section1-right{
+    width: 40%;
+    padding: 10px;
+    border-radius: 10px;
+
+}
+.section1-img{
+    width: 100%;
+    height: 60%;
+    border-radius: 10px;
+}
+.secction2{
+    padding: 120px 20px;
+    align-items: center;
+    background-color:white;
+    background-size: cover;
+    width: 100%;
+    background-position: center;
+}
+.section2-inner{
+    align-items: center;
+    justify-content: space-around;
+}
+.section2-left{
+    width: 50%;
+    padding: 15px;
+
+}
+.section2-h{
+    color: green;
+    font-size: 70px;
+    margin: 0px;
+    align-items: start;
+    
+}
+.section2-p{
+    padding-left: 20px;
+    color: #333;
+    margin: 0px;
+    font-size: 18px;
+    font-weight: 600;
+}
+.section2-right{
+    width: 40%;
+    padding: 10px;
+    border-radius: 10px;
+}
+.section2-img{
+    width: 100%;
+    height: 60%;
+    border-radius: 10px;
+}
+
+
+
+.section3{
+    background-image: url(/images/COLOURBOX30300159.webp);
+    width: 100%;
+    background-position: center;
+    display: flex;
+    height: 90vh;
+    align-items: center;
+    background-size: cover;
+}
+.section3-inner{
+    background-color: green;
+    padding: 10px;
+    margin: 0px;
+    width: 70%;
+}
+.section3-h{
+    color: white;
+    padding: 4px;
+    font-weight: 700;
+    font-size: 120px;
+    margin: 0px;
+}
+
+.section4{
+    padding: 80px 50px;
+    width: 100%;
+    background-position: center;
+
+    height: auto;
+    align-items: center;
+    background-size: cover;
+}
+.section4-inner{
+    background-color: white;
+    padding: 10px;
+    margin: auto;
+    width: 75%;
+}
+
+
+.section4-p1{
+    color: #333;
+    font-size: 24px;
+    
+    font-weight: 600;
+    padding: 10px 0px;
+    padding-bottom: 80px;
+
+}
+.section4-content{
+    display: flex;
+    justify-content: space-between;
+    margin: 0px;
+    
+}
+.section4-p2{
+    color: #333;
+    font-size: 20px;
+    
+    font-weight: 600;
+    padding: 10px 0px;
+}
+.section4-div{
+    
+    justify-content: space-around;
+    width: 45%;
+}
+.section4-header {
+    background-color: green;
+    color: white;
+    font-size: 70px;
+    font-weight: 700;
+    padding: 5px 10px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+.section4-icon{
+    font-size: 30px;
+    width: 50px;
+    height: 50px;
+    margin: 0px;
+    margin-right: 15px;
+    padding: 0px;
+}
+.section4-title{
+    font-size: 20px;
+    margin: 0px;
+}
+.section4-p{
+    color: #333;
+    font-size: 20px;
+    font-weight: 600;
+    padding: 10px 0px;
+
+}
+.section5{
+    padding: 30px 20px;
+
+}
+
+
+.section6{
+    background-image: url(/images/structures-architecture-from-new-york-city_23-2150819970.jpg);
+    width: 100%;
+    background-position: center;
+    display: flex;
+    height: 90vh;
+    align-items: center;
+    background-size: cover;
+}
+.section6-inner{
+    background-color: green;
+    padding: 10px;
+    margin: 0px;
+    width: 70%;
+}
+.section6-h{
+    color: white;
+    padding: 4px;
+    font-weight: 700;
+    font-size: 120px;
+    margin: 0px;
+}
+
+.section8{
+    padding: 50px 30px;
+    width: 100%;
+}
+.section8-inner{
+    display: flex;
+    margin: 0px;
+    justify-content: space-around;
+}
+.section8-each{
+    width: 45%;
+    padding: 10px;
+    
+} 
+.section8-h{
+    font-size: 22px;
+    font-weight: 600;
+}
+.section8-list{
+    padding: 10px 0px;
+}
+
+.section8-p{
+    font-size: 20px;
+    padding: 10px 0px;
+}
+
+
+.section12{
+    background-image: url(/images/COLOURBOX30300159.webp);
+    width: 100%;
+    background-position: center;
+    display: flex;
+    height: 90vh;
+    align-items: center;
+    background-size: cover;
+}
+.section12-inner{
+    background-color: green;
+    padding: 10px;
+    margin: 0px;
+    width: 70%;
+}
+.section12-h{
+    color: white;
+    padding: 4px;
+    font-weight: 700;
+    font-size: 120px;
+    margin: 0px;
+}
